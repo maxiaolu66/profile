@@ -1,9 +1,9 @@
-## 一、学习计划
+## 一、写作计划
 - :white_check_mark: [Python基础](https://maxiaolu.gitbook.io/python/)
-- :point_right: [HiveQL](https://maxiaolu.gitbook.io/hiveql/)
+- :white_check_mark: [HiveQL笔记](https://maxiaolu.gitbook.io/hiveql/)
+- :muscle: Shell基础
 - :black_square_button: Java基础
 - :black_square_button: JVM
-- :black_square_button: Shell
 - :black_square_button: Hadoop YARN
 - :black_square_button: Hadoop HDFS
 - :black_square_button: Hadoop MR
@@ -19,6 +19,9 @@
 
 - 知乎: [码小鹿](https://www.zhihu.com/people/44-67-93-89)
 - 个人邮箱: maxiaolu_tech@163.com
+
+- 微信交流群: 
+<img src=https://maxiaolu-1259561361.cos.ap-guangzhou.myqcloud.com/profile/wechat.jpg width=200/>
 
 ## 三、为什么创作
 1. 对自身的知识体系进行系统性回顾总结
