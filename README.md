@@ -1,14 +1,23 @@
-## 一、写作计划
+## 一、写作汇总
 - :white_check_mark: [Python基础](https://maxiaolu.gitbook.io/python/)
 - :white_check_mark: [HiveQL笔记](https://maxiaolu.gitbook.io/hiveql/)
 - :muscle: Shell基础
-- :black_square_button: Java基础
 - :black_square_button: JVM
+- :black_square_button: 设计模式
+- :black_square_button: Java基础
 - :black_square_button: Hadoop YARN
 - :black_square_button: Hadoop HDFS
 - :black_square_button: Hadoop MR
 - :black_square_button: Hive
 - :black_square_button: HBase
+- :black_square_button: Docker
+- :black_square_button: K8S
+- :black_square_button: C语言
+- :black_square_button: Cpp基础
+- :black_square_button: Golang
+- :black_square_button: Git
+- :black_square_button: Maven
+- :black_square_button: Gradle
 
 ## 二、个人信息
 - 微信公众号: 码小鹿
