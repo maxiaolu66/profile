@@ -1,8 +1,8 @@
 ## 一、写作汇总
 - :white_check_mark: [Python基础](https://maxiaolu.gitbook.io/python/)
 - :white_check_mark: [HiveQL笔记](https://maxiaolu.gitbook.io/hiveql/)
-- :muscle: Shell基础
-- :black_square_button: JVM
+- :white_check_mark: [Shell基础](https://maxiaolu.gitbook.io/shell/)
+- :muscle: JVM
 - :black_square_button: 设计模式
 - :black_square_button: Java基础
 - :black_square_button: Hadoop YARN
@@ -18,6 +18,7 @@
 - :black_square_button: Git
 - :black_square_button: Maven
 - :black_square_button: Gradle
+- :black_square_button: TPCH-Hive
 
 ## 二、个人信息
 - 微信公众号: 码小鹿
@@ -26,11 +27,7 @@
 - 个人微信: maxiaolu_tech
 <img src=https://maxiaolu-1259561361.cos.ap-guangzhou.myqcloud.com/profile/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg width=200/>
 
-- 知乎: [码小鹿](https://www.zhihu.com/people/44-67-93-89)
 - 个人邮箱: maxiaolu_tech@163.com
-
-- 微信交流群: 
-<img src=https://maxiaolu-1259561361.cos.ap-guangzhou.myqcloud.com/profile/wechat.jpg width=200/>
 
 ## 三、为什么创作
 1. 对自身的知识体系进行系统性回顾总结
